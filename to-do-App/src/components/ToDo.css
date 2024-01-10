@@ -1,0 +1,57 @@
+body{
+    background-color: #333333;
+}
+.addTask{
+    background-color: #444444;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+   
+}
+.flex{
+    background-color:#444444;
+    margin-top: 20px;
+    display: flex;
+    width: 450px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    color: white;
+    height: 100px;
+}
+
+#update{
+    background-color:#438ABF ;
+}
+#delete{
+    background-color: #F6293E;
+}
+.btn{
+    height: 50px;
+    
+}
+.btns{
+    padding-top: 30px;
+    display: flex;
+    width: 200px;
+    padding-left: 130px;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    
+}
+input{
+    border-radius: 5px;
+    border-style: none;
+    width: 300px;
+    height: 30px;
+}
+.Output{
+    padding-top: 20px;
+    padding-left: 5px;
+    width: 100px;
+}
+.addbtn{
+    font-size: 15px;
+    margin-left: 20px;
+    background-color: #5CB85C;
+    border: none;
+}
+
